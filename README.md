@@ -8,7 +8,7 @@ Plataforma de Automação de Processos Empresariais com IA
 
 ### PARA QUE eu possa automatizar tarefas e melhorar aexperiência do usuário.
 # Requisitos 
-###Problemas do dia a dia solucionados
+### Problemas do dia a dia solucionados
 
 ➔ Ineficiência e lentidão em processos manuais.
 
